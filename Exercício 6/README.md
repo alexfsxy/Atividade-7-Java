@@ -1,4 +1,4 @@
-Simulador de fila de banco utilizando uma lista dinâmica em Java.
+Simulador de Fila de Banco utilizando uma lista dinâmica em Java.
 
 Compile os arquivos do projeto usando um ambiente de desenvolvimento Java ou o terminal. Execute a classe FilaDoBanco.java para iniciar o programa. Siga as opções do menu para interagir com o Fila do Banco.
 
