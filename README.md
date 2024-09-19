@@ -1,0 +1,1 @@
+Essa atividade foi feito ao todo oito exercícios de prática na programação de Java citando na tarefa no conteúdo como Lista Simplesmente Encadeada, Lista Duplamente Encadeada e por fim Filas, foi aprendizagem bem legal.
